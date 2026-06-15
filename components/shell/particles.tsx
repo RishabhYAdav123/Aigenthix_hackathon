@@ -24,7 +24,7 @@ export function Particles({ className, density = 46, connect = true }: Particles
     const getColor = () =>
       getComputedStyle(document.documentElement)
         .getPropertyValue("--primary")
-        .trim() || "#22d3ee"
+        .trim() || "#d9b84d"
 
     let stroke = getColor()
 
