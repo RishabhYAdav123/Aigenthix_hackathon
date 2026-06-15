@@ -2,6 +2,8 @@
 
 Neuralyze is an AI observability and LLM cost optimization dashboard built with Next.js. It provides a simulated console for tracing, monitoring, evaluating, and optimizing production AI systems.
 
+Live demo: https://build-ai-observability.vercel.app
+
 ## Features
 
 - Real-time AI observability dashboard with KPI cards and charts
